@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao Silva</h1>
 <h3 align="center">A passionate mobile engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoasilva&label=Profile%20views&color=0e75b6&style=flat" alt="joaoasilva" /> </p>
 
+<h2>Usefull packages:</h2>
+<p>
+detekt - In case you want to run detekt automatically before each commit add this <a href="https://raw.githubusercontent.com/joaoasilva/joaocv/master/pre-commit">script<a> to .git/hooks/pre-commit
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaoasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaoasilva" height="30" width="40" /></a>
