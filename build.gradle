@@ -15,6 +15,17 @@ buildscript {
     }
 }
 
+plugins {
+    id("io.gitlab.arturbosch.detekt").version("$detekt_version")
+}
+
+allprojects {
+    apply plugin: "io.gitlab.arturbosch.detekt"
+    dependencies {
+        detektPlugins "io.gitlab.arturbosch.detekt:detekt-formatting:$detekt_version"
+    }
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
