@@ -15,4 +15,5 @@ project.ext {
 
     // others
     detekt_version = '1.20.0'
+    leakcanary_version = '2.9.1'
 }
