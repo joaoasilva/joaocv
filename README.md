@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao Silva</h1>
 <h3 align="center">A passionate mobile engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoasilva&label=Profile%20views&color=0e75b6&style=flat" alt="joaoasilva" /> </p>
+<p align="left">
+ <a href="https://github.com/joaoasilva/joaocv/actions/workflows/pre-merge.yaml" target="blank">
+  <img src="https://github.com/joaoasilva/joaocv/actions/workflows/pre-merge.yaml/badge.svg" alt="joaoasilva" />
+ </a> 
+ <img src="https://komarev.com/ghpvc/?username=joaoasilva&label=Profile%20views&color=0e75b6&style=flat" alt="joaoasilva" />
+</p>
 
 <h2>Using:</h2>
  <ul>
