@@ -17,10 +17,12 @@ buildscript {
 
 plugins {
     id("io.gitlab.arturbosch.detekt").version("$detekt_version")
+    id("org.jlleitschuh.gradle.ktlint").version("$ktlint_version")
 }
 
 allprojects {
     apply plugin: "io.gitlab.arturbosch.detekt"
+    apply plugin: "org.jlleitschuh.gradle.ktlint"
     dependencies {
         detektPlugins "io.gitlab.arturbosch.detekt:detekt-formatting:$detekt_version"
     }
